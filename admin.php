@@ -29,7 +29,7 @@ if($_SESSION['user'] !== 'admin'){
             <span>MiniBank SQLi Lab</span>
         </div>
 
-        <a class="logout-link" href="dashboard.php">Back</a>
+        <a class="logout-link" href="index.php">Home</a>
     </div>
 
     <div class="panel">
